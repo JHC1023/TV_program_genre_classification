@@ -92,6 +92,7 @@ python genre_predictor_gui.py
     - `🌟 Gemini로 시놉시스 생성` 버튼을 클릭합니다.
     - Gemini API가 새로운 시놉시스와 해당 장르를 생성하여 각 텍스트 박스에 자동으로 입력해줍니다.
     - `🎯 장르 예측하기` 버튼을 눌러, 생성된 시놉시스에 대해 우리 모델이 얼마나 잘 예측하는지 테스트해볼 수 있습니다.
+<img width="643" height="525" alt="Image" src="https://github.com/user-attachments/assets/9ce931fc-7b82-4001-bbbb-9178778aeb98" />
 
 ---
 
