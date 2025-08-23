@@ -28,7 +28,7 @@
 ## 📁 프로젝트 구조 (Project Structure)
 
 ```
-TV_program_genre_classification-1/
+TV_program_genre_classification/
 │
 ├── genre_predictor_gui.py      # GUI 예측 애플리케이션
 ├── README.md                   # 프로젝트 설명 파일
